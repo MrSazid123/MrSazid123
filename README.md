@@ -45,8 +45,8 @@ Specialties:
 ### **📈 GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AureliaFrost&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=AureliaFrost&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSazid123&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=MrSazid123&theme=tokyonight" />
 </p>
 
 ---
