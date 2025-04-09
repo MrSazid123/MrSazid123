@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I’m+AuréliaFrost!;Discord+Bot+Developer;Web+Wizard+&+Full-Stack+Dev;Python+Game+Master;Minecraft+Server+Architect;Android+App+Ninja&center=true&size=30&duration=4000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I’m+Sajid!;Discord+Bot+Developer;Web+Wizard+&+Full-Stack+Dev;Python+Game+Master;Minecraft+Server+Architect;Android+App+Ninja&center=true&size=30&duration=4000" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ### **About Me**
 
 ```yaml
-Username:       ღ AuréliaFrost ღ
+Username:       ღ ŜÂJ̣̌ÍÐ ღ
 Specialties:    
   - Discord Bot & Server Developer
   - Python Game Developer
@@ -61,8 +61,8 @@ Specialties:
 
 ### **Let’s Connect!**
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1190297941311766649)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSazid123)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 ---
