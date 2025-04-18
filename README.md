@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I’m+Sajid!;Discord+Bot+Developer;Web+Wizard+&+Full-Stack+Dev;Python+Game+Master;Minecraft+Server+Architect;Android+App+Ninja&center=true&size=30&duration=4000" />
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Hey,+I’m+Sajid!;Discord+Bot+Developer;Web+Wizard+&+Full-Stack+Dev;Python+Game+Master;Minecraft+Server+Architect;Android+App+Ninja&center=true&size=30&duration=4000](https://readme-typing-svg.demolab.com/?lines=Hey,+I%E2%80%99m+Sajid!;Discord+Bot+Developer;Web+Wizard+&+Full-Stack+Dev;Python+Game+Master;Minecraft+Server+Architect;Android+App+Ninja&center=true&size=30&duration=4000)" />
 </h1>
 
 <p align="center">
