@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I’m+Sajid!;Discord+Bot+Developer;Web+Wizard+&+Full-Stack+Dev;Python+Game+Master;Minecraft+Server+Architect;Android+App+Ninja&center=true&size=30&duration=4000"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Digital%20Kingdom!&fontSize=35&fontAlign=50&fontColor=fff"/>
 </p>
 
