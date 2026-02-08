@@ -41,7 +41,7 @@ Specialties:
 ### **📈 GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSazid123&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSazid123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 ---
