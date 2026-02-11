@@ -38,14 +38,6 @@ Specialties:
 
 ---
 
-### **📈 GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSazid123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
----
-
 ### **🧩 Fun Facts**
 
 - I turn caffeine into **code**.
