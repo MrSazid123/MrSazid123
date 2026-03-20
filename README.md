@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahade Islam</h1>
 <h3 align="center">A passionate Minecraft Servers and Plugin/Mods Developer .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsazid123&label=Profile%20views&color=0e75b6&style=flat" alt="mrsazid123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrSazid123&label=Profile%20views&color=0e75b6&style=flat" alt="mrsazid123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsazid123" alt="mrsazid123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSazid123" alt="mrsazid123" /></a> </p>
 
 - 🔭 I’m currently working on [HypingStudio](https://playhyping.com/en/)
 
