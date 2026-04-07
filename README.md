@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrSazid123&label=Profile%20views&color=0e75b6&style=flat" alt="mrsazid123" /> </p>
 
-- 🔭 I’m currently working on [HypingStudio](https://playhyping.com/en/)
-
 - 👯 I’m looking to collaborate on **Some Minecraft Servers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrSazid123?tab=repositories](https://github.com/MrSazid123?tab=repositories)
